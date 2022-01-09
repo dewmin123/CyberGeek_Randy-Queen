@@ -1,26 +1,24 @@
-# CyberGeek_Randy Queen
 <div align="center">
-  <img src="https://ibb.co/dc268mC/Ephoto360-com-161da4551e29c2/LOGO.jpg" width="300" height="300">
-  <h1>🌹🔅RANDY QUEEN BOT🔅🌹</h1>
+  <img src="https://i.ibb.co/p22Rpfy/LOGO.jpg" widith="300" height="300">
+  <h1>🌹🔅RANDY QUEEN🔅🌹</h1>
 </div>
 <p align="center">
-    Makes it easy and fun to use WhatsApp. It is also the first Sinhala user bot for WhatsApp.
+    ❄️Makes it easy and fun to use WhatsApp✅. It is also the first Sinhala user bot for WhatsApp❄️.
     <br>
-        <a href="https://chat.whatsapp.com/FYmjbmHZt2WKIJ7uhmKQVC">Whatsapp Group</a> |
-        <a herf="http://www.youtube.com/channel/UCsycasj6IPMSpy3SW1929ow/featured">Youtube Channel</a>
+        <a href="https://chat.whatsapp.com/FYmjbmHZt2WKIJ7uhmKQVC">Whatsapp Group✅</a> |
+        <a href="https://www.youtube.com/channel/UCsycasj6IPMSpy3SW1929ow/featured">Youtube Channel☑</a>
     <br>
 </p>
 
-----
 <div align="center">
 	<h1>Visit our official website to install the Whatsapp Bot (With button update) :</h1>
 	<a href="https://rb-geeks-website.yolasite.com">
 <img src="https://images.squarespace-cdn.com/content/v1/580515742e69cfedd1fbef58/1525386767826-Z6T2PAXQD6PZJFNGY14U/ke17ZwdGBToddI8pDm48kGzbt7cz3CKX9Rsta-RdWeJZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpwXPcCdCfJzTjuw7eD5qoJaUvNnrlJ7-JqE3xnP9OqaaXMr3zNNd3H5Lklmgn1mB80/getbutton.png" width="400"></br></a>
 </div>
 
-----
+
 <div align="center">
-	<h2> Randy Queen  v3 whatsapp bot (Old bot without buttons) :</h1>
+	<h2> 🔥Randy Queen  v3 whatsapp bot🔥 (Old bot without buttons) :</h1>
 	
 ### QR CODE
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@BlackAmda/Queen-Amdi-QR-Code)
@@ -99,7 +97,7 @@ QR Code generator and full instructions available there.
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/BlackAmda/QueenAmdi)
 
-## CyberGeek Team
+## CyberGeek Team👨
 
 <table>
 									
